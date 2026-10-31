@@ -13,3 +13,11 @@ Analysis of 50,000 banking transactions and 5,000 customers.
 
 ### Transactions
 ![Transactions](dashboard/screenshots/transactions.png)
+
+## Dashboard Preview
+
+### Overview Analysis
+![Overview](dashboard/screenshots/overview.png)
+
+### Transactions
+![Transactions](dashboard/screenshots/transactions.png)
